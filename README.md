@@ -17,6 +17,7 @@ experiential learning, operational management, and public engagement on campus a
 * User surveys
 * Real time chat feeds during events
 * User contests
+* Migration to MongoDB
 
 ### The Challenge
 
