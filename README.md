@@ -9,4 +9,4 @@ The Office of Sustainability is a hub for sustainability and sustainable develop
 * etc
 
 
-<a href="http://tinypic.com?ref=2uy3ubk" target="_blank"><img src="http://i66.tinypic.com/2uy3ubk.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="http://i66.tinypic.com/2uy3ubk.png" border="0"</a>
