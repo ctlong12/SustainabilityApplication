@@ -9,4 +9,4 @@ The Office of Sustainability is a hub for sustainability and sustainable develop
 * etc
 
 
-<a target="_blank"><img align="right" width="300" height="500" src="http://i66.tinypic.com/2uy3ubk.png" border="0"</a>
+<a target="_blank"><img align="right" width="300" height="500" src="http://i66.tinypic.com/2uy3ubk.png" border="0" alt="Home page of the Sustainability Application"></a>
