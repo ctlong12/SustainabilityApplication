@@ -9,4 +9,4 @@ The Office of Sustainability is a hub for sustainability and sustainable develop
 * etc
 
 
-<img align="right" width="500" height="200" src="https://ibb.co/vqjFz23">
+<img align="right" width="250" height="500" src="https://ibb.co/vqjFz23">
