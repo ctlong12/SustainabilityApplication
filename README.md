@@ -13,9 +13,9 @@ experiential learning, operational management, and public engagement on campus a
 * Communication with college professionals and scholars 
 
 ### Furture Updates
-* Redesign using the React-Native frameowrk
+* Redesign using the React-Native framework
 * User surveys
-* Real time chat feed during events
+* Real time chat feeds during events
 * User contests
 
 ### The Challenge
