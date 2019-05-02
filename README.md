@@ -10,4 +10,5 @@ The Office of Sustainability is a hub for sustainability and sustainable develop
 * Automatic feed updates
 * Event check-in functionality using Geofencing 
 
-<a target="_blank"><img src="http://i63.tinypic.com/2uy3ubk.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a target="_blank"><img src="http://i63.tinypic.com/4v1piq.png" border="0" alt="Image and video hosting by TinyPic"></a>
