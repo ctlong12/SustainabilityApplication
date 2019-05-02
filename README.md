@@ -10,12 +10,13 @@ experiential learning, operational management, and public engagement on campus a
 * Customizable user profiles
 * Automatic feed updates
 * Event check-in functionality using Geofencing 
+* Communication with college professionals and scholars 
 
 ### Furture Updates
-* Login & capabilities using Google Firebase backend.
-* Customizable user profiles
-* Automatic feed updates
-* Event check-in functionality using Geofencing 
+* Redesign using the React-Native frameowrk
+* User surveys
+* Real time chat feed during events
+* User contests
 
 ### The Challenge
 
