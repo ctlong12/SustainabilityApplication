@@ -6,7 +6,7 @@ experiential learning, operational management, and public engagement on campus a
 
 ## Features
 
-* Login & capabilities using Google Firebase backend.
+* Login/logout capabilities using Google Firebase backend.
 * Customizable user profiles
 * Automatic feed updates
 * Event check-in functionality using Geofencing 
