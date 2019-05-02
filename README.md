@@ -5,8 +5,6 @@ The Office of Sustainability is a hub for sustainability and sustainable develop
 ## Features
 
 * Login & capabilities using Google Firebase backend.
+<a target="_blank"><img align="right" width="300" height="500" src="http://i66.tinypic.com/2uy3ubk.png" border="0" alt="Home page of the Sustainability Application"></a>
 * Customizable user profiles
 * etc
-
-
-<a target="_blank"><img align="right" width="300" height="500" src="http://i66.tinypic.com/2uy3ubk.png" border="0" alt="Home page of the Sustainability Application"></a>
